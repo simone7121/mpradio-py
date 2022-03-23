@@ -24,7 +24,7 @@ Exclusively tested on Minimal Raspbian (ARM)
 - [ ] Bluetooth companion app for android (Work in progress...) 
 
 # Installation
-`git clone https://github.com/morrolinux/mpradio-py.git mpradio`
+`git clone https://github.com/simone7121/mpradio-py.git mpradio`
 
 `cd mpradio/install && sudo bash install.sh`
 
